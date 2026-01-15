@@ -1,0 +1,27 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  line-height: 1.5;
+}
+
+header {
+  background-color: #ef1e1e;
+  padding: 16px;
+}
+
+.section {
+  padding: 24px;
+   
+}
+
+button {
+  padding: 8px 16px;
+  cursor: pointer;
+  background-color: #9e6d6d;
+}
+
